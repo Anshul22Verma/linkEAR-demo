@@ -1,4 +1,4 @@
-package com.nixlab.video_calling_app
+package com.nixlab.linkear
 
 import io.flutter.embedding.android.FlutterActivity
 

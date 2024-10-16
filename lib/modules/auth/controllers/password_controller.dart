@@ -5,10 +5,10 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:video_calling_app/apis/providers/api_provider.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/helpers/utility.dart';
-import 'package:video_calling_app/routes/route_management.dart';
+import 'package:linkear/apis/providers/api_provider.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/helpers/utility.dart';
+import 'package:linkear/routes/route_management.dart';
 
 class PasswordController extends GetxController {
   static PasswordController get find => Get.find();

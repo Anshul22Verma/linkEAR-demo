@@ -5,12 +5,12 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:video_calling_app/apis/providers/api_provider.dart';
-import 'package:video_calling_app/apis/services/auth_service.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/helpers/utility.dart';
-import 'package:video_calling_app/modules/profile/controllers/profile_controller.dart';
-import 'package:video_calling_app/routes/route_management.dart';
+import 'package:linkear/apis/providers/api_provider.dart';
+import 'package:linkear/apis/services/auth_service.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/helpers/utility.dart';
+import 'package:linkear/modules/profile/controllers/profile_controller.dart';
+import 'package:linkear/routes/route_management.dart';
 
 class EditNameController extends GetxController {
   static EditNameController get find => Get.find();

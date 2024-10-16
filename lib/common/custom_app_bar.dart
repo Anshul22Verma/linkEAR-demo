@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/styles.dart';
-import 'package:video_calling_app/routes/route_management.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/styles.dart';
+import 'package:linkear/routes/route_management.dart';
 
 class NxAppBar extends StatelessWidget {
   const NxAppBar({

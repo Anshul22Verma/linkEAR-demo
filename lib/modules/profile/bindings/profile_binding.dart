@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:video_calling_app/modules/profile/controllers/profile_controller.dart';
+import 'package:linkear/modules/profile/controllers/profile_controller.dart';
 
 class ProfileBinding extends Bindings {
   @override

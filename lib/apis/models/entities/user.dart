@@ -1,6 +1,6 @@
 import 'package:copy_with_extension/copy_with_extension.dart';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:video_calling_app/apis/models/entities/user_avatar.dart';
+import 'package:linkear/apis/models/entities/user_avatar.dart';
 
 part 'user.g.dart';
 

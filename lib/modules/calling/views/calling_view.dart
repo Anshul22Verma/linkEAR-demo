@@ -1,15 +1,15 @@
 import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:video_calling_app/apis/models/entities/user_avatar.dart';
-import 'package:video_calling_app/common/circular_asset_image.dart';
-import 'package:video_calling_app/common/circular_network_image.dart';
-import 'package:video_calling_app/common/primary_icon_btn.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/helpers/utility.dart';
-import 'package:video_calling_app/modules/calling/controllers/channel_controller.dart';
+import 'package:linkear/apis/models/entities/user_avatar.dart';
+import 'package:linkear/common/circular_asset_image.dart';
+import 'package:linkear/common/circular_network_image.dart';
+import 'package:linkear/common/primary_icon_btn.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/helpers/utility.dart';
+import 'package:linkear/modules/calling/controllers/channel_controller.dart';
 
 class CallingView extends StatefulWidget {
   const CallingView({Key? key}) : super(key: key);

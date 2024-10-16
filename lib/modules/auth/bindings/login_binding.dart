@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:video_calling_app/modules/auth/controllers/login_controller.dart';
+import 'package:linkear/modules/auth/controllers/login_controller.dart';
 
 class LoginBinding extends Bindings {
   @override

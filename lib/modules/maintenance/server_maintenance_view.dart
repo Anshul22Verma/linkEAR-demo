@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/common/asset_image.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/styles.dart';
-import 'package:video_calling_app/helpers/utility.dart';
+import 'package:linkear/common/asset_image.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/styles.dart';
+import 'package:linkear/helpers/utility.dart';
 
 class ServerMaintenanceView extends StatelessWidget {
   const ServerMaintenanceView({Key? key}) : super(key: key);

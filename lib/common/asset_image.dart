@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
 
 class NxAssetImage extends StatelessWidget {
   const NxAssetImage({

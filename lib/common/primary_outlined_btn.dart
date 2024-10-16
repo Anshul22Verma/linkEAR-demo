@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/styles.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/styles.dart';
 
 class NxOutlinedButton extends StatelessWidget {
   const NxOutlinedButton({

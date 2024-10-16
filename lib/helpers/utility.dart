@@ -8,11 +8,11 @@ import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:video_calling_app/common/asset_image.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/styles.dart';
+import 'package:linkear/common/asset_image.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/styles.dart';
 
 const asciiStart = 33;
 const asciiEnd = 126;

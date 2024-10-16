@@ -4,11 +4,11 @@ import 'dart:io';
 
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:video_calling_app/apis/models/responses/profile_response.dart';
-import 'package:video_calling_app/apis/providers/api_provider.dart';
-import 'package:video_calling_app/apis/services/auth_service.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/helpers/utility.dart';
+import 'package:linkear/apis/models/responses/profile_response.dart';
+import 'package:linkear/apis/providers/api_provider.dart';
+import 'package:linkear/apis/services/auth_service.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/helpers/utility.dart';
 
 class ProfileController extends GetxController {
   static ProfileController get find => Get.find();

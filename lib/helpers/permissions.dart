@@ -1,5 +1,5 @@
 import 'package:permission_handler/permission_handler.dart';
-import 'package:video_calling_app/helpers/utility.dart';
+import 'package:linkear/helpers/utility.dart';
 
 abstract class AppPermissions {
   static Future<bool> checkStoragePermission() async {

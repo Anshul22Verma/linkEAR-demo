@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:video_calling_app/constants/strings.dart';
+import 'package:linkear/constants/strings.dart';
 
 const appThemeModes = {
   StringValues.system,

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/constants/dimens.dart';
+import 'package:linkear/constants/dimens.dart';
 
 class NxIconButton extends StatelessWidget {
   final IconData icon;

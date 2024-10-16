@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:video_calling_app/common/custom_app_bar.dart';
-import 'package:video_calling_app/common/primary_filled_btn.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/styles.dart';
-import 'package:video_calling_app/modules/profile/controllers/edit_username_controller.dart';
+import 'package:linkear/common/custom_app_bar.dart';
+import 'package:linkear/common/primary_filled_btn.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/styles.dart';
+import 'package:linkear/modules/profile/controllers/edit_username_controller.dart';
 
 class EditUsernameView extends StatelessWidget {
   const EditUsernameView({Key? key}) : super(key: key);

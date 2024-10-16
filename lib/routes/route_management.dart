@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:video_calling_app/routes/app_pages.dart';
+import 'package:linkear/routes/app_pages.dart';
 
 abstract class RouteManagement {
   static void goToLoginView() {

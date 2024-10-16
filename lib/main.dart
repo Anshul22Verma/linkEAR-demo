@@ -4,15 +4,15 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:video_calling_app/apis/services/auth_service.dart';
-import 'package:video_calling_app/apis/services/theme_controller.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/themes.dart';
-import 'package:video_calling_app/helpers/utility.dart';
-import 'package:video_calling_app/modules/app_update/app_update_controller.dart';
-import 'package:video_calling_app/modules/profile/controllers/profile_controller.dart';
-import 'package:video_calling_app/routes/app_pages.dart';
+import 'package:linkear/apis/services/auth_service.dart';
+import 'package:linkear/apis/services/theme_controller.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/themes.dart';
+import 'package:linkear/helpers/utility.dart';
+import 'package:linkear/modules/app_update/app_update_controller.dart';
+import 'package:linkear/modules/profile/controllers/profile_controller.dart';
+import 'package:linkear/routes/app_pages.dart';
 
 void main() async {
   try {

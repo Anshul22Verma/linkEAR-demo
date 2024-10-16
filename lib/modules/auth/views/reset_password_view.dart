@@ -2,15 +2,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:video_calling_app/common/asset_image.dart';
-import 'package:video_calling_app/common/primary_filled_btn.dart';
-import 'package:video_calling_app/common/primary_text_btn.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/styles.dart';
-import 'package:video_calling_app/modules/auth/controllers/password_controller.dart';
-import 'package:video_calling_app/routes/route_management.dart';
+import 'package:linkear/common/asset_image.dart';
+import 'package:linkear/common/primary_filled_btn.dart';
+import 'package:linkear/common/primary_text_btn.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/styles.dart';
+import 'package:linkear/modules/auth/controllers/password_controller.dart';
+import 'package:linkear/routes/route_management.dart';
 
 class ResetPasswordView extends StatelessWidget {
   const ResetPasswordView({Key? key}) : super(key: key);

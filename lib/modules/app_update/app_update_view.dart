@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:get/get.dart';
 import 'package:r_upgrade/r_upgrade.dart';
-import 'package:video_calling_app/common/primary_outlined_btn.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/dimens.dart';
-import 'package:video_calling_app/constants/strings.dart';
-import 'package:video_calling_app/constants/styles.dart';
-import 'package:video_calling_app/helpers/utility.dart';
-import 'package:video_calling_app/modules/app_update/app_update_controller.dart';
+import 'package:linkear/common/primary_outlined_btn.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/dimens.dart';
+import 'package:linkear/constants/strings.dart';
+import 'package:linkear/constants/styles.dart';
+import 'package:linkear/helpers/utility.dart';
+import 'package:linkear/modules/app_update/app_update_controller.dart';
 
 class AppUpdateView extends StatelessWidget {
   const AppUpdateView({super.key});

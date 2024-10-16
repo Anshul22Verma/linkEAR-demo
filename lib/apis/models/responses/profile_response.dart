@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:video_calling_app/apis/models/entities/profile.dart';
+import 'package:linkear/apis/models/entities/profile.dart';
 
 part 'profile_response.g.dart';
 

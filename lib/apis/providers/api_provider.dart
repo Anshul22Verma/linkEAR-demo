@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:video_calling_app/constants/secrets.dart';
-import 'package:video_calling_app/constants/urls.dart';
+import 'package:linkear/constants/secrets.dart';
+import 'package:linkear/constants/urls.dart';
 
 class ApiProvider {
   ApiProvider(this._client, {this.baseUrl}) {

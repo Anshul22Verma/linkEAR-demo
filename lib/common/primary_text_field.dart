@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/constants/colors.dart';
-import 'package:video_calling_app/constants/styles.dart';
+import 'package:linkear/constants/colors.dart';
+import 'package:linkear/constants/styles.dart';
 
 class NxTextField extends StatelessWidget {
   const NxTextField({
