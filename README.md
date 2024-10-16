@@ -2,8 +2,6 @@
 
 LiveBox is a video calling and conferencing app that allows you to make video calls with your friends and family.
 
-[<img src='screenshots/download.png' height='50' alt='Download' title='Download'>][releases]
-
 - The app is developed using Flutter and Agora SDK.
 
 - The app is currently in development and is not yet available on Play Store.
@@ -35,31 +33,9 @@ flutter clean
 flutter pub get packages
 ```
 
-## Screenshots
-
-### Login Screen
-
-<img src="screenshots/1.png" alt="" width="400" />
-
-### Registration Screen
-
-<img src="screenshots/2.png" alt="" width="400" />
-
-### Home Screen
-
-<img src="screenshots/3.png" alt="" width="400" />
-
-### Join Meeting Screen
-
-<img src="screenshots/4.png" alt="" width="400" />
-
-## Download
-
-You can download the app from the [releases page][releases].
-
 ## Authors
 
-- **[Nikhil Rajput][portfolio]** - *Owner & Lead Developer*
+- **[Anshul Verma]** 
 
 ## Features
 
