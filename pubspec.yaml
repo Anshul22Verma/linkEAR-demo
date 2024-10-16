@@ -1,5 +1,5 @@
-name: video_calling_app
-description: A new video calling mobile application developed using Flutter, Agora SDK and GetX state management.
+name: linkear
+description: A new video calling mobile application for people with hearing disability.
 
 publish_to: "none"
 
@@ -12,53 +12,53 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.5
+  cupertino_icons: ^1.0.8
 
-  agora_rtc_engine: ^6.0.0
+  agora_rtc_engine: ^6.3.2
   wakelock: ^0.6.2
   get_time_ago: ^1.1.6
 
-  device_info_plus: ^4.1.2
-  package_info_plus: ^1.4.3+1
+  device_info_plus: ^8.2.2
+  package_info_plus: ^3.1.2
 
   image_picker: ^0.8.5+3
-  image_cropper: ^3.0.0
+  image_cropper: ^4.0.1
   cached_network_image: ^3.2.2
   flutter_image_compress: ^1.1.3
 
   connectivity: ^3.0.6
   http: ^0.13.5
-  cloudinary: ^1.0.3
+  cloudinary: ^1.2.0
   r_upgrade: ^0.3.8+2
 
-  url_launcher: ^6.1.6
-  share_plus: ^4.4.0
+  url_launcher: ^6.3.1
+  share_plus: ^6.3.4
 
   path: ^1.8.2
   file_picker: ^5.2.0+1
   path_provider: ^2.0.11
   flutter_markdown: ^0.6.12
 
-  flutter_screenutil: ^5.5.4
+  flutter_screenutil: ^5.9.3
   permission_handler: ^10.0.2
 
-  get: ^4.6.5
-  get_storage: ^2.0.3
-  built_value: ^8.4.1
-  json_annotation: ^4.7.0
-  copy_with_extension: ^4.0.3
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  built_value: ^8.9.2
+  json_annotation: ^4.9.0
+  copy_with_extension: ^5.0.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^2.0.1
-  flutter_launcher_icons: ^0.10.0
-  flutter_native_splash: ^2.2.10+1
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
 
-  build_runner: ^2.2.1
-  json_serializable: ^6.4.1
-  copy_with_extension_gen: ^4.0.3
+  build_runner: ^2.4.13
+  json_serializable: ^6.8.0
+  copy_with_extension_gen: ^5.0.4
 
 flutter:
   uses-material-design: true
